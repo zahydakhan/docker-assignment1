@@ -1,6 +1,4 @@
 # docker-assignment1
-
-# docker-assignment1
 ****Created a simple Hello World program that I will containerize using Docker ****
 **Step 1: Creating the Dockerfile**
 From python:latest 
